@@ -1,6 +1,6 @@
 # A Domain Check Tool
 
-A simple Python tool that helps users look up a domain's IP address, compare DNS results, and check site avaliabilty.
+A simple Python tool that helps users look up a domain's IP address, compare DNS results, and check site availability.
 
 I built this project to basic domain troubleshooting easier to understand.
 
